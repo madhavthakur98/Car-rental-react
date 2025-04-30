@@ -1,6 +1,36 @@
-<<<<<<< HEAD
-# Car-rental-react
-=======
+# 🚗 Car Rental Frontend (React)
+
+This is a responsive and user-friendly car rental website frontend built using **React.js**. It was developed as a freelance project for a client to help them manage and showcase their vehicle rental services online.
+
+---
+
+## ✨ Features
+
+- 🔍 View available cars with images and details
+- 📆 Select pickup and return dates
+- 📍 Choose pickup and drop-off locations
+- 📱 Fully responsive on mobile, tablet, and desktop
+- ⚡ Fast loading with optimized React components
+- 🔗 Connected to backend APIs for real-time car availability (if backend available)
+
+---
+
+## 🛠 Tech Stack
+
+- **React.js** (Frontend framework)
+- **React Router** (Client-side routing)
+- **CSS / Tailwind / Bootstrap** (Styling, based on what you used)
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/madhavthakur98/Car-rental-react.git
+cd Car-rental-react
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
